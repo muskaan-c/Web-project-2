@@ -1,0 +1,23 @@
+/* setting a background color for my webpage*/
+body{
+    background-color: #a1b305;
+}
+
+/*class for making my h1 in center*/
+.heading{
+    text-align:center;
+}
+
+/* class for navigation bar links*/
+.nav-link{
+    border: solid;
+    border:black;
+    color: rgba(240, 248, 255, 0.934);
+    background-color: saddlebrown;
+    margin: 14px;
+    font-size: 20px;
+}
+
+.nav-link:hover{
+    background-color: sandybrown; /*Changes the color of the link when you hover over it*/
+}
